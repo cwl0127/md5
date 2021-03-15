@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "memory.h": "c",
+        "corecrt_memory.h": "c",
+        "stat.h": "c"
+    }
+}
